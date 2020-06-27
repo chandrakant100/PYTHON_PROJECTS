@@ -1,2 +1,2 @@
 # PYTHON
-![ ](https://www.kindpng.com/imgv/iRbwhJw_python-logo-png-transparent-background-python-logo-png/=24*48)
+![ ](https://www.zedge.net/wallpaper/5b4e1d37-ca16-4bb3-91fa-c832f9bfefc5)
