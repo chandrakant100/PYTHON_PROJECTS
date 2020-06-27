@@ -1,2 +1,2 @@
 # PYTHON
-![ ](https://www.zedge.net/wallpaper/5b4e1d37-ca16-4bb3-91fa-c832f9bfefc5)
+![ ](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png=10*10)
