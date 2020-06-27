@@ -1,3 +1,7 @@
+"""This code have been tested in windows,
+    make sure that you have installed all necessary plugins
+    contributions to this code are welcome.
+"""
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speechRecognition
 import datetime
@@ -97,7 +101,7 @@ if __name__ == "__main__":
             codePath = "C:\\Users\\Haris\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
             os.startfile(codePath)
 
-        elif 'email to harry' in query:
+        elif 'email to chandrakant' in query:
             try:
                 speak("What should I say?")
                 content = takeCommand()
